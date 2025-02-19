@@ -23,6 +23,8 @@ Crocodile object:the crocodile that is moving
 LakeWater object:the water of the lake in scene, has a lower transparence; 
 LightCube object: Object that corresponds with the directional light source
 ![LScene](https://github.com/user-attachments/assets/eefb611d-688a-4afa-a51f-5a0a9ea9b265)
+![image](https://github.com/user-attachments/assets/3aaef4df-d8df-402e-9ddc-f86bc0696f43)
+![image](https://github.com/user-attachments/assets/e9cb0d93-882e-4ddb-bbfe-e3649cc64a27)
 
 4. Implementation: 
 3.1 Camera Implementation: 
